@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+fpdf
+plotly
+altair
+shap
+xgboost
+ollama
